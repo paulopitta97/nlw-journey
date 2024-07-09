@@ -20,6 +20,8 @@ npx expo start
 `npx expo start --clear`
 `npx expo install nativewind@^4.0.1 react-native-reanimated tailwindcss`
 - Instalar extensão VSCODE: Tailwind CSS IntelliSense
+`npx expo install expo-font @expo-google-fonts/inter`
+`npm i clsx`
 
 ### 📝 Licença
 
