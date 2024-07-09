@@ -29,6 +29,9 @@ npx expo start
 `npx expo install expo-font @expo-google-fonts/inter`
 `npm i clsx`
 `npx expo install react-native-svg lucide-react-native`
+`npm install react-native-calendars`
+`npx expo install expo-blur`
+`npm i axios`
 
 ### 📝 Licença
 
