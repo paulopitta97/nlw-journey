@@ -22,6 +22,7 @@ npx expo start
 - Instalar extensão VSCODE: Tailwind CSS IntelliSense
 `npx expo install expo-font @expo-google-fonts/inter`
 `npm i clsx`
+`npx expo install react-native-svg lucide-react-native`
 
 ### 📝 Licença
 
