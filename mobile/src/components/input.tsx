@@ -1,7 +1,7 @@
 import { colors } from "@/styles/colors"
 import clsx from "clsx"
 import { ReactNode } from "react"
-import { TextInput, TextInputProps, View } from "react-native"
+import { Platform, TextInput, TextInputProps, View } from "react-native"
 
 type Variants = "primary" | "secondary" | "tertiary"
 
@@ -28,6 +28,7 @@ function Field({...rest}: TextInputProps) {
         className="flex-1 text-zinc-100 text-lg font-regular" {...rest}
         placeholderTextColor={colors.zinc[400]}
         cursorColor={colors.zinc[100]}
+        selectionColor={Platform.OS === "ios" ? colors.zinc[100] : undefined}
         />
 }
 
