@@ -2,7 +2,7 @@
 
 ### Projeto desenvolvido durante o NLW Journey da Rocketseat em Julho de 2024 (Trilha React Native).
 
-- Tecnologias Mobile: `React Native`, `Expo`.
+- Tecnologias Mobile: `React Native`, `Expo`, `Native Wind`, `React Navigation`, `React Native Reanimated`.
 
 ### Configurando e executando:
 
@@ -17,7 +17,9 @@ npx expo start
 ### Comandos:
 
 `npx create-expo-app --template`
-`npx expo start`
+`npx expo start --clear`
+`npx expo install nativewind@^4.0.1 react-native-reanimated tailwindcss`
+- Instalar extensão VSCODE: Tailwind CSS IntelliSense
 
 ### 📝 Licença
 
