@@ -32,6 +32,7 @@ npx expo start
 `npm install react-native-calendars`
 `npx expo install expo-blur`
 `npm i axios`
+`npm i dayjs`
 
 ### 📝 Licença
 
