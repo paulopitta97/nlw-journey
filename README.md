@@ -33,6 +33,7 @@ npx expo start
 `npx expo install expo-blur`
 `npm i axios`
 `npm i dayjs`
+`npm i zod`
 
 ### 📝 Licença
 
