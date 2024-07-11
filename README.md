@@ -34,6 +34,7 @@ npx expo start
 `npm i axios`
 `npm i dayjs`
 `npm i zod`
+`npx expo install @react-native-async-storage/async-storage`
 
 ### 📝 Licença
 
