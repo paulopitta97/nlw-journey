@@ -15,3 +15,10 @@
 - [x] Get the trip participants (`GET /trips/:id/participants`);
 - [x] Create a new invite (`POST /trips/:id/invites`);
 - [x] Get user confirmation status for trip (`GET /trips/:id/confirmation-status`);
+
+## Instruções para rodar a API
+
+```bash
+export NODE_TLS_REJECT_UNAUTHORIZED='0'
+npm run dev
+```
