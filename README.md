@@ -14,6 +14,12 @@ npm install
 npx expo start
 ```
 
+- Server:
+```
+cd server 
+npm run dev
+```
+
 ### Links Úteis:
 
 - [NLW JOURNEY | Guia do evento ](https://efficient-sloth-d85.notion.site/NLW-JOURNEY-Guia-do-evento-c16d91a2edc64f8182585d4bec6d33e9)
@@ -37,6 +43,13 @@ npx expo start
 `npx expo install @react-native-async-storage/async-storage`
 `npx expo prebuild`
 `npx expo run:android` 
+`npm i -D uri-scheme`
+`npx uri-scheme open "planner://" --android`
+`npx uri-scheme open "planner://trip/b186b227-7128-4561-a561-11fe1c4dbbee" --android`
+`npx uri-scheme open "planner://trip/b186b227-7128-4561-a561-11fe1c4dbbee?participant=17d53a4f-d9cb-4e45-8c36-dd97bb53e481" --android`
+- Extensão VsCode: Thunder Client
+`npm run db:studio`
+
 
 ### 📝 Licença
 
