@@ -6,7 +6,7 @@
 
 ### Configurando e executando:
 
-- Mobile:
+- Mobile: [README.md](https://github.com/paulopitta97/nlw-journey/blob/master/mobile/README.md)
 ```
 cd mobile 
 npm install -g expo-cli
@@ -14,7 +14,7 @@ npm install
 npx expo start
 ```
 
-- Server:
+- Server: [README.md](https://github.com/paulopitta97/nlw-journey/blob/master/server/README.md)
 ```
 cd server 
 npm run dev
@@ -29,26 +29,26 @@ npm run dev
 
 ### Comandos:
 
-`npx create-expo-app --template`
-`npx expo start --clear`
-`npx expo install nativewind@^4.0.1 react-native-reanimated tailwindcss` // Instalar extensão VSCODE: Tailwind CSS IntelliSense
-`npx expo install expo-font @expo-google-fonts/inter`
-`npm i clsx`
-`npx expo install react-native-svg lucide-react-native`
-`npm install react-native-calendars`
-`npx expo install expo-blur`
-`npm i axios`
-`npm i dayjs`
-`npm i zod`
-`npx expo install @react-native-async-storage/async-storage`
-`npx expo prebuild`
-`npx expo run:android` 
-`npm i -D uri-scheme`
-`npx uri-scheme open "planner://" --android`
-`npx uri-scheme open "planner://trip/b186b227-7128-4561-a561-11fe1c4dbbee" --android`
-`npx uri-scheme open "planner://trip/b186b227-7128-4561-a561-11fe1c4dbbee?participant=17d53a4f-d9cb-4e45-8c36-dd97bb53e481" --android`
+- `npx create-expo-app --template`
+- `npx expo start --clear`
+- `npx expo install nativewind@^4.0.1 react-native-reanimated tailwindcss` // Instalar extensão VSCODE: Tailwind CSS IntelliSense
+- `npx expo install expo-font @expo-google-fonts/inter`
+- `npm i clsx`
+- `npx expo install react-native-svg lucide-react-native`
+- `npm install react-native-calendars`
+- `npx expo install expo-blur`
+- `npm i axios`
+- `npm i dayjs`
+- `npm i zod`
+- `npx expo install @react-native-async-storage/async-storage`
+- `npx expo prebuild`
+- `npx expo run:android` 
+- `npm i -D uri-scheme`
+- `npx uri-scheme open "planner://" --android`
+- `npx uri-scheme open "planner://trip/b186b227-7128-4561-a561-11fe1c4dbbee" --android`
+- `npx uri-scheme open "planner://trip/b186b227-7128-4561-a561-11fe1c4dbbee?participant=17d53a4f-d9cb-4e45-8c36-dd97bb53e481" --android`
 - Extensão VsCode: Thunder Client
-`npm run db:studio`
+- `npm run db:studio`
 
 
 ### 📝 Licença
