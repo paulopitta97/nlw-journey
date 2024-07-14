@@ -1,6 +1,10 @@
 ## NLW Journey da Rocketseat 🚀
 
-### Projeto desenvolvido durante o NLW Journey da Rocketseat em Julho de 2024 (Trilha React Native). Consiste em um Aplicativo chamado Planner que possibilita cadastrar viagens, convidar participantes com envio de e-mail, confirmar presença, cadastrar atividades com data/hora, cadastrar links, entre outras opções que permitem um planejamento de uma viagem em grupo.
+### Projeto desenvolvido durante o NLW Journey da Rocketseat em Julho de 2024 (Trilha React Native).
+
+![image](https://github.com/user-attachments/assets/030a8573-b6ee-4335-b060-9046ba802de8)
+
+- Consiste em um Aplicativo chamado Planner que possibilita cadastrar viagens, convidar participantes com envio de e-mail, confirmar presença, cadastrar atividades com data/hora, cadastrar links, entre outras opções que permitem um planejamento de uma viagem em grupo.
 
 - Tecnologias Mobile: `React Native`, `Expo`, `Native Wind`, `React Navigation`, `React Native Reanimated`.
 
