@@ -1,3 +1,35 @@
+## Configuração para Rodar via Expo App
+
+```
+cd mobile 
+npm install -g expo-cli
+npm install
+npx expo start
+```
+
+## Comandos Utilizados:
+
+- `npx create-expo-app --template`
+- `npx expo start --clear`
+- `npx expo install nativewind@^4.0.1 react-native-reanimated tailwindcss` 
+- _// Instalar extensão VSCODE: Tailwind CSS IntelliSense_
+- `npx expo install expo-font @expo-google-fonts/inter`
+- `npm i clsx`
+- `npx expo install react-native-svg lucide-react-native`
+- `npm install react-native-calendars`
+- `npx expo install expo-blur`
+- `npm i axios`
+- `npm i dayjs`
+- `npm i zod`
+- `npx expo install @react-native-async-storage/async-storage`
+- `npx expo prebuild`
+- `npx expo run:android` 
+- `npm i -D uri-scheme`
+- `npx uri-scheme open "planner://" --android`
+- `npx uri-scheme open "planner://trip/b186b227-7128-4561-a561-11fe1c4dbbee" --android`
+- `npx uri-scheme open "planner://trip/b186b227-7128-4561-a561-11fe1c4dbbee?participant=17d53a4f-d9cb-4e45-8c36-dd97bb53e481" --android`
+- _Instalar extensão VSCODE: Thunder Client_
+
 ## Configuração para Rodar o Build
 
 - Sem Android Studio (Software) - apenas CommandLine.

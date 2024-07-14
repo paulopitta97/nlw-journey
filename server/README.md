@@ -20,5 +20,13 @@
 
 ```bash
 export NODE_TLS_REJECT_UNAUTHORIZED='0'
+cd server
 npm run dev
+```
+
+- Para ver o BD Prisma:
+
+```bash
+cd server
+npm run db:studio
 ```
